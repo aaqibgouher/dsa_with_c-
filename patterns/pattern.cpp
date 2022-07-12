@@ -179,5 +179,42 @@ int main()
         *         *
     */
 
+    // int i, j, n = 4;
+
+    // for (i = 1; i <= n; i++)
+    // {
+    //     for (j = 1; j <= i; j++)
+    //     {
+    //         cout << "* ";
+    //     }
+    //     int k = 2 * n - 2 * i;
+    //     for (j = 1; j <= k; j++)
+    //     {
+    //         cout << "  ";
+    //     }
+    //     for (j = 1; j <= i; j++)
+    //     {
+    //         cout << "* ";
+    //     }
+    //     cout << endl;
+    // }
+    // for (i = n; i >= 1; i--)
+    // {
+    //     for (j = 1; j <= i; j++)
+    //     {
+    //         cout << "* ";
+    //     }
+    //     int k = 2 * n - 2 * i;
+    //     for (j = 1; j <= k; j++)
+    //     {
+    //         cout << "  ";
+    //     }
+    //     for (j = 1; j <= i; j++)
+    //     {
+    //         cout << "* ";
+    //     }
+    //     cout << endl;
+    // }
+
     return 0;
 }
