@@ -1,3 +1,4 @@
+// first program, datatypes & variables
 #include <iostream>
 
 using namespace std;
